@@ -1,0 +1,77 @@
+@media (min-width: 768px ) and (max-width: 991px) {
+    nav{
+        box-shadow: none;
+    }
+    .btn {
+        width: 141px;
+        height: 58px;
+        border-radius: 14px;
+        color: #FFF;
+        font-family: Poppins;
+        font-size: 15px;
+      }
+      body{
+        font-family: 'Poppins', sans-serif;
+      }
+    #hero .heroText a {
+      margin: 2px 22px 5px 0;
+      padding: 7px 9px 10px 13px;
+    }
+    img, svg {
+        vertical-align: middle;
+        width: 100%;
+      }
+  }
+
+@media (max-width: 767px ){
+    nav ul li a{
+        margin-top: 3px;
+        text-align: right;
+    }
+}
+@media (min-width: 320px) and (max-width: 576px){
+    nav ul li a{
+        font-size: 10px;
+        text-align: right;
+    }
+ 
+    #hero .heroText h5 span {
+        margin-left: 9px;
+    }
+    #hero{
+        padding: 10px;
+    }
+    #hero .heroText {
+        padding: 13px 0 0;
+    }
+    #hero .heroText h5 {
+        font-size: 16px;
+    }
+    #hero .heroText h1 {
+        font-size: 38px;
+    }
+    #hero .heroText p {
+        font-size: 13px;
+    }
+    #hero .heroImg{
+      padding: 10px 0 50px;
+    }
+    .btn {
+      width: 141px;
+      height: 58px;
+      border-radius: 14px;
+      color: #FFF;
+      font-family: Poppins;
+      font-size: 15px;
+    }
+    #hero .heroText a {
+      margin: 2px 22px 5px 0;
+      padding: 7px 9px 10px 13px;
+    }
+    img, svg {
+        vertical-align: middle;
+        width: 100%;
+      }
+}
+  /* BANNER START */
+  
